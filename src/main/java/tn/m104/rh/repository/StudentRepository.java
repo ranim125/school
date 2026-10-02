@@ -9,3 +9,5 @@ import tn.m104.rh.entity.Student;
 public interface StudentRepository extends JpaRepository<Student, Integer> {
 
 }
+
+//commentaire
