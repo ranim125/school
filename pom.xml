@@ -8,6 +8,7 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	<!-- test pull request -->
 
 	<groupId>tn.m104.rh</groupId>
 	<artifactId>school</artifactId>
